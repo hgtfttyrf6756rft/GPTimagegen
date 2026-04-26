@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Image Generator",
+  "description": "An image generation and editing app powered by Google Gemini, allowing users to create images from text or edit existing reference images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
