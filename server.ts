@@ -49,7 +49,7 @@ async function startServer() {
         
         // Generate mode
         const response = await openai.images.generate({
-          model: 'dall-e-2',
+          model: 'gpt-image-2',
           prompt: prompt,
           response_format: 'b64_json',
         });
